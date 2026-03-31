@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Priti8847/Priti8847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on<br>→ Designing and building scalable AI/ML systems with ~3 years of experience in production environments<br>🤝 I’m looking to collaborate on<br>→ Applied AI, LLMs, and production-grade ML systems<br>💬 Ask me about<br>→ Machine Learning, NLP, Data Scirnce, and AI and LLms VLLMs<br>⚡ Fun fact<br>→ I enjoy turning messy data into intelligent systems and → 3 years in AI taught me: data quality > model complexity<br>
 
 
@@ -27,7 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Priti8847&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
